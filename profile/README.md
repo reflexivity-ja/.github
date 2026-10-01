@@ -8,4 +8,4 @@ Reflexivity の日本語ナレッジベースは、統合版 Knowledge Base に�
 
 [Reflexivity Knowledge Base](https://github.com/reflexivity-kb/docs)
 
-一般的なお問い合わせは **gtm@reflexivity.com** までお願いいたします。
+一般的なお問い合わせは **jim@reflexivity.com** までお願いいたします。
